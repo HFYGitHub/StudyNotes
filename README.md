@@ -18,4 +18,4 @@
 ### 2.git add . 添加文件
 ### 3.git commit -m "更新信息" 记录更新信息
 ### 4.git remote add origin XXX.git 关联GitHub仓库
-### 5.git push origin mastert 上传
+### 5.git push origin HEAD:master 上传
